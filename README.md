@@ -1,6 +1,6 @@
 # Programa Adivina el Número
 
-## Archivos del Proyecto
+## Archivos del proyecto
 
 1. **Adivina_El_Numero.py**
    - Este archivo contiene el programa principal del juego "Adivina el Número".
@@ -17,3 +17,13 @@
    - Este archivo almacena los datos del juego, como el nombre y resultados de cada jugador.
    - Se actualiza automáticamente con cada partida, permitiendo almacenar las estadísticas del juego.
    - En el archivo ya existen algunos datos a modo de ejemplo que he generado.
+
+## Cómo ejecutar el programa
+
+Este proyecto requiere Python y las siguientes bibliotecas:
+- `openpyxl`
+- `matplotlib`
+
+Para instalar estas dependencias, puedes usar el siguiente comando:
+```bash
+pip install -r requirements.txt
