@@ -1,5 +1,11 @@
 # Programa Adivina el Número
 
+## Características
+
+🔹 Este repositorio es ideal para explorar de una manera simple las capacidades de Python en el desarrollo de juegos interactivos y en el análisis de datos. El programa permite jugar en modo solitario o en un modo para dos jugadores; incluyendo diferentes dificultades de juego y pistas.
+
+🔹 El juego ofrece estadísticas detalladas de cada partida, que se almacenan automáticamente en un archivo Excel (gracias a la librería **Openpyxl**). Esta función permite a los jugadores analizar su rendimiento a través de datos como: resultado, modo de juego, nivel de dificultad y cantidad de intentos. Además, el proyecto incluye visualizaciones con **Matplotlib** para interpretar fácilmente el rendimiento de los jugadores y la distribución de dificultades.
+
 ## Archivos del proyecto
 
 1. **Adivina_El_Numero.py**
