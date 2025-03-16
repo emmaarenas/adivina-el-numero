@@ -32,4 +32,4 @@ Este proyecto requiere Python y las siguientes bibliotecas:
 
 Para instalar estas dependencias, puedes usar el siguiente comando:
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
